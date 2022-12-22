@@ -1,0 +1,6 @@
+{
+    "jira-plugin.workingProject": "",
+    "dart.flutterRunAdditionalArgs": [
+        "--no-sound-null-safety"
+    ]
+}
