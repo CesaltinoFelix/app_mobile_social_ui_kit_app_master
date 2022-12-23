@@ -89,7 +89,7 @@ class _ChatPageState extends State<ChatPage> {
               ),
             ),
             SizedBox(
-              height: 40,
+              height: 40, 
             ),
             Column(
               children: List.generate(usersList.length, (index) {
