@@ -276,9 +276,11 @@ class _HomePageState extends State<HomePage> {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            Text("Social UI KIT",
-                style: TextStyle(
-                    fontSize: 18, color: black, fontWeight: FontWeight.bold)),
+            Text(
+              "Social UI KIT",
+              style: TextStyle(
+                  fontSize: 18, color: black, fontWeight: FontWeight.bold),
+            ),
             IconButton(
                 onPressed: () {},
                 icon: Icon(
